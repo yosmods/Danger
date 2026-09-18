@@ -1,4 +1,4 @@
 {
-  "tokens": {"8793009373:AAEE9xMWj4HfBoJnrGnDWbdMd7oKziRZ1OI"}
+  "token": {"8793009373:AAEE9xMWj4HfBoJnrGnDWbdMd7oKziRZ1OI"}
 }
 
